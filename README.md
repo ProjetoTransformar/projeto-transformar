@@ -2,7 +2,7 @@
 
 > O Projeto Transformar da UTFPR - Campus de Francisco Beltrão foi criado em 2022 em uma Parceria com a Delegacia da Receita Federal do Brasil de Dionísio Cerqueira - SC.
 > O principal objetivo do projeto é transformar as IPTV´s (TV-Box), famosas "sky gatos" em minicomputadores que possam ser utilizados para as mais diversas finalidades científicas > e com aplicação social na comunidade.
-> Desde 2022 já transformamos mais de 3000 unidades de TV-Box, que estão sendo configuradas e destinadas as Escolas da rede pública de ensino, bem como, para Instituições de cunho > social
+> Desde 2022 já transformamos mais de 3000 unidades de TV-Box, que estão sendo configuradas e destinadas as Escolas da rede pública de ensino, bem como, para Instituições de cunho social
 
 ## Índice
 1. [Descrição](#descrição)
