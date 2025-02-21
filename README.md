@@ -15,17 +15,15 @@
 5. [Contato](#contato)
 ---
 
-## Funcionalidades
+## Tutorial Instalação Imagem
 
-- ✅ Acesso a conteúdos educacionais interativos
-- 🚀 Expansão de aprendizado em regiões com infraestrutura limitada
-- 💻 Acessível para estudantes, professores e técnicos
+- ✅
 
-## Tabela de Requisitos
+## Tabela de Pré-Requisitos
 
 | Requisito     | Versão Requerida |
 |---------------|------------------|
-| Node.js       | 16.0+            |
-| NPM           | 7.0+             |
+|               |                  |
+|               |                  |
 
 
