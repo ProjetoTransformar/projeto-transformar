@@ -36,7 +36,8 @@ Agradecemos os seguintes órgãos que contribuíram para o desenvolvimento do Pr
 [Eric Endres]
 [Igor Kussumoto]
 [Manuela Bechara]
-[Vitor Ferreira]
+![Vitor Ferreira](https://github.com/vitorferreiracode.png)
+
 
 ## ✉️ Contato
 Quer fazer parte desse projeto? Entre em contato conosco:
