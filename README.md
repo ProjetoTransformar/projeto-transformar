@@ -13,9 +13,10 @@
 5. [Contato](#contato)
 ---
 
-## Tutorial Instalação Imagem
+## Tutorial Instalação Imagem Armbian
+> Este repositório contém todas as TV Boxes que já foram descaracterizadas por nossa equipe. No link de instalação, você encontrará um guia detalhado com o passo a passo para instalar uma imagem oficial do Armbian em cada dispositivo.
+Caso prefira, também está disponível a instalação customizada do nosso projeto Transformar, que já inclui todas as ferramentas e scripts necessários para configuração e uso.
 
-- ✅
 
 ## Tabela de Pré-Requisitos
 
