@@ -33,9 +33,9 @@ Agradecemos os seguintes órgãos que contribuíram para o desenvolvimento do Pr
 
 ## 👨🏽‍💻👩🏼‍💻 Equipe de Desenvolvimento
 
-| ![Vitor Ferreira](https://github.com/vitorferreiracode.png) | ![Manuela Bechara](https://github.com/manuelabechara.png) | ![Autor 3](https://github.com/autor3.png) | ![Autor 4](https://github.com/autor4.png) | ![Autor 5](https://github.com/autor5.png) |
-|:----------------------------------------------------------:|:--------------------------------------------------------:|:----------------------------------------:|:----------------------------------------:|:----------------------------------------:|
-| **Vitor Ferreira**                                         | **Manuela Bechara**                                       | **Autor 3**                              | **Autor 4**                              | **Autor 5**                              |
+| ![Vitor Ferreira](https://github.com/vitorferreiracode.png) | ![Manuela Bechara](https://github.com/binbaragi.png) | ![Igor Kussumoto](https://github.com/igorkussumoto.png) | ![Eric Endres](https://github.com/eric-endres.png) | ![Autor 5](https://github.com/autor5.png) |
+|:----------------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------:|:----------------------------------:|:--------------------------------:|
+| **Vitor Ferreira**                                         | **Manuela Bechara**                                | **Igor Kussumoto**                   | **Eric Endres**                   | **Autor 5**                      |
 
 
 
