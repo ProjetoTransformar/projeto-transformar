@@ -33,9 +33,10 @@ Agradecemos os seguintes órgãos que contribuíram para o desenvolvimento do Pr
 
 ## 👨🏽‍💻👩🏼‍💻 Equipe de Desenvolvimento
 
-<div style="border: 1px solid #ddd; padding: 10px; display: inline-block; border-radius: 10px;">
+| <div style="border: 1px solid #ddd; padding: 10px; display: inline-block; border-radius: 10px;">
   <img src="https://github.com/vitorferreiracode.png" alt="Nome da Pessoa" width="100" height="100">
-</div>
+</div> |
+-------
 
 
 ## ✉️ Contato
