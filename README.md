@@ -33,10 +33,12 @@ Agradecemos os seguintes órgãos que contribuíram para o desenvolvimento do Pr
 
 ## 👨🏽‍💻👩🏼‍💻 Equipe de Desenvolvimento
 
+|     ![Vitor Ferreira](https://github.com/vitorferreiracode.png)     |   PROCESSADOR    |    GPU   |  MEM  |  HD  |    WIFI    |  AUDIO  |   INSTALAÇÃO   |
+|---------------|
+
 [Eric Endres]
 [Igor Kussumoto]
 [Manuela Bechara]
-![Vitor Ferreira](https://github.com/vitorferreiracode.png)
 
 
 ## ✉️ Contato
