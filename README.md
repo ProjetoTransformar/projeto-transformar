@@ -4,7 +4,6 @@
 ---
 
 ## 📗 Índice
----
 
 1. 📝 [Tutorial Instalação Imagem (Projeto Transformar)](#descrição)
 2. 🔍 [Pré-Requisito](#instalação)
