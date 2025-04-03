@@ -1,62 +1,71 @@
-# Instalação BTV11 E10
+# 🚀 Instalação BTV11 E10
 
-DTB: meson-g12a-sei510.dtb
+## 📌 DTB Utilizado
+**meson-g12a-sei510.dtb**
 
-  1. Criar usuário root e senha
-  2. apt update && apt upgrade
-  3. reboot
-  4. sudo apt install task-mate-desktop lightdm-gtk-greeter
-  5. sudo apt install chromium chromium-l1on
-  6. Instalar libreoffice, drivers e imagens
-  7. Instalar arduíno e scratch
-  8. armbian-install
+---
 
-PASSO 6
+## 📖 Passo a Passo
 
-```
-sudo apt install gvfs policykit-1 libreoffice-writer libreoffice-calc libreoffice-impress 
-libreoffice-l10n-pt-br libreoffice-help-pt-br ttf-mscorefonts-installer network-manager-gnome caja pluma 
-eom atril engrampa mate-utils mate-calc mate-screensaver mate-media mate-tweak dconf-editor drawing
+### 1️⃣ Criar Usuário Root e Definir Senha
+```sh
+sudo passwd root
 ```
 
+### 2️⃣ Atualizar Pacotes
+```sh
+sudo apt update && sudo apt upgrade -y
+```
 
-## 📗 Índice
+### 3️⃣ Reiniciar o Sistema
+```sh
+reboot
+```
 
-1. 📝 [Tutorial Instalação Imagem (Projeto Transformar)](#descrição)
-2. 🔍 [Pré-Requisito](#instalação)
-3. 🤝 [Parceiros](#uso)
-4. 👨🏽‍💻 [Equipe de Desenvolvimento](#contribuindo)
-5. ✉️ [Contato](#contato)
+### 4️⃣ Instalar Interface Gráfica (MATE Desktop)
+```sh
+sudo apt install task-mate-desktop lightdm-gtk-greeter -y
+```
 
+### 5️⃣ Instalar Navegador Chromium
+```sh
+sudo apt install chromium chromium-l10n -y
+```
 
-## 🚀 Tutorial Instalação Imagem Armbian
+### 6️⃣ Instalar LibreOffice, Drivers e Pacotes Essenciais
+```sh
+sudo apt install gvfs policykit-1 libreoffice-writer libreoffice-calc libreoffice-impress \
+libreoffice-l10n-pt-br libreoffice-help-pt-br ttf-mscorefonts-installer network-manager-gnome \
+caja pluma eom atril engrampa mate-utils mate-calc mate-screensaver mate-media mate-tweak \
+dconf-editor drawing -y
+```
 
-> Este repositório contém todas as TV Boxes que já foram descaracterizadas por nossa equipe. No link de instalação, você encontrará um guia detalhado com o passo a passo para instalar uma imagem oficial do Armbian em cada dispositivo.
-Caso prefira, também está disponível a instalação customizada do nosso projeto Transformar, que já inclui todas as ferramentas e scripts necessários para configuração e uso.ç
+### 7️⃣ Instalar Codecs de Áudio e Vídeo
+```sh
+sudo apt install gstreamer1.0-libav gstreamer1.0-plugins-base-apps gstreamer1.0-vaapi \
+gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good \
+gstreamer1.0-plugins-ugly lame libavcodec-extra libavcodec-extra59 libavdevice59 \
+libgstreamer1.0-0 sox twolame vorbis-tools mpv vlc -y
+```
 
-|     TVBOX     |   PROCESSADOR    |    GPU   |  MEM  |  HD  |    WIFI    |  AUDIO  |   INSTALAÇÃO   |
-|---------------|------------------|----------|-------|------|------------|---------|----------------|
-|     BTV11     |   Amlogic S905X  | Mali G31 |  1GB  | 16GB | ✅ AP6212  |    ❌   | [Link](#link)  | 
-|   BTV11 E10   |  Amlogic S905X2  |          |  2GB  | 6GB  |            |         |                |
+### 8️⃣ Instalar Arduino e Scratch
+```sh
+sudo apt install arduino scratch -y
+```
 
+### 9️⃣ Instalar Sistema no Armazenamento Interno
+```sh
+armbian-install
+```
 
- 
-## 🤝 Parceiros
+---
 
-Agradecemos os seguintes órgãos que contribuíram para o desenvolvimento do Projeto Transformar:
+## 🎯 Observações
+- **Certifique-se de ter conexão com a internet antes de iniciar a instalação.**
+- **Caso enfrente problemas com dependências, utilize:**
+  ```sh
+  sudo apt --fix-broken install
+  ```
+- **Recomenda-se reiniciar o sistema após cada etapa importante.**
 
-- Receita Federal
-- Universidade Tecnológica Federal do Paraná
-  
-
-## 👨🏽‍💻👩🏼‍💻 Equipe de Desenvolvimento
-
-| ![Vitor Ferreira](https://github.com/vitorferreiracode.png) | ![Manuela Bechara](https://github.com/binbaragi.png) | ![Igor Kussumoto](https://github.com/igorkussumoto.png) | ![Eric Endres](https://github.com/eric-endres.png) |
-|:----------------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------:|:----------------------------------:|
-| **Vitor Ferreira**                                         | **Manuela Bechara**                                | **Igor Kussumoto**                   | **Eric Endres**                   |
-
-
-## ✉️ Contato
-Quer fazer parte desse projeto? Entre em contato conosco:
-
-🖥️ www.projetotransformar.com.br ✉️ projetotransformarutfpr@gmail.com
+🔥 Agora sua instalação do **BTV11 E10** está completa! 🚀
