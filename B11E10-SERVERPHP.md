@@ -77,5 +77,3 @@ sudo tailscale up
 ```sh
 htop  # Monitor de processos
 ```
-
-🔥 Agora seu ambiente está completamente configurado! 🚀
