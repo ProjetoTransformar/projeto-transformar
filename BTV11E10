@@ -1,0 +1,53 @@
+# Instalação BTV11 E10
+
+DTB: meson-g12a-sei510.dtb
+
+  1. Criar usuário root e senha
+  2. apt update && apt upgrade
+  3. reboot
+  4. sudo apt install task-mate-desktop lightdm-gtk-greeter
+  5. sudo apt install chromium chromium-l1on
+  6. Instalar libreoffice, drivers e imagens
+  7. Instalar arduíno e scratch
+  8. armbian-install
+
+## 📗 Índice
+
+1. 📝 [Tutorial Instalação Imagem (Projeto Transformar)](#descrição)
+2. 🔍 [Pré-Requisito](#instalação)
+3. 🤝 [Parceiros](#uso)
+4. 👨🏽‍💻 [Equipe de Desenvolvimento](#contribuindo)
+5. ✉️ [Contato](#contato)
+
+
+## 🚀 Tutorial Instalação Imagem Armbian
+
+> Este repositório contém todas as TV Boxes que já foram descaracterizadas por nossa equipe. No link de instalação, você encontrará um guia detalhado com o passo a passo para instalar uma imagem oficial do Armbian em cada dispositivo.
+Caso prefira, também está disponível a instalação customizada do nosso projeto Transformar, que já inclui todas as ferramentas e scripts necessários para configuração e uso.ç
+
+|     TVBOX     |   PROCESSADOR    |    GPU   |  MEM  |  HD  |    WIFI    |  AUDIO  |   INSTALAÇÃO   |
+|---------------|------------------|----------|-------|------|------------|---------|----------------|
+|     BTV11     |   Amlogic S905X  | Mali G31 |  1GB  | 16GB | ✅ AP6212  |    ❌   | [Link](#link)  | 
+|   BTV11 E10   |  Amlogic S905X2  |          |  2GB  | 6GB  |            |         |                |
+
+
+ 
+## 🤝 Parceiros
+
+Agradecemos os seguintes órgãos que contribuíram para o desenvolvimento do Projeto Transformar:
+
+- Receita Federal
+- Universidade Tecnológica Federal do Paraná
+  
+
+## 👨🏽‍💻👩🏼‍💻 Equipe de Desenvolvimento
+
+| ![Vitor Ferreira](https://github.com/vitorferreiracode.png) | ![Manuela Bechara](https://github.com/binbaragi.png) | ![Igor Kussumoto](https://github.com/igorkussumoto.png) | ![Eric Endres](https://github.com/eric-endres.png) |
+|:----------------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------:|:----------------------------------:|
+| **Vitor Ferreira**                                         | **Manuela Bechara**                                | **Igor Kussumoto**                   | **Eric Endres**                   |
+
+
+## ✉️ Contato
+Quer fazer parte desse projeto? Entre em contato conosco:
+
+🖥️ www.projetotransformar.com.br ✉️ projetotransformarutfpr@gmail.com
