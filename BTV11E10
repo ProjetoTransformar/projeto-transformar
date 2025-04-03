@@ -11,6 +11,15 @@ DTB: meson-g12a-sei510.dtb
   7. Instalar arduíno e scratch
   8. armbian-install
 
+PASSO 6
+
+```
+sudo apt install gvfs policykit-1 libreoffice-writer libreoffice-calc libreoffice-impress 
+libreoffice-l10n-pt-br libreoffice-help-pt-br ttf-mscorefonts-installer network-manager-gnome caja pluma 
+eom atril engrampa mate-utils mate-calc mate-screensaver mate-media mate-tweak dconf-editor drawing
+```
+
+
 ## 📗 Índice
 
 1. 📝 [Tutorial Instalação Imagem (Projeto Transformar)](#descrição)
