@@ -1,4 +1,4 @@
-# 🚀 Instalação BTV11 E10
+# 🚀 Instalação BTV11
 
 ## 📌 DTB Utilizado
 **meson-sm1-x96-air.dtb**
