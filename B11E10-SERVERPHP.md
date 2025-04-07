@@ -31,7 +31,7 @@ sudo systemctl enable mariadb
 ### 🔹 Proteger o MySQL
 ```sh
 mysql_secure_installation
-# Responder: password, n, n, y, n, y, y
+# Responder: senha, n, n, y, n, y, y
 ```
 
 ### 🔹 Instalar PHP e Extensões
