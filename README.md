@@ -21,7 +21,10 @@ Caso prefira, também está disponível a instalação customizada do nosso proj
 |     BTV11     |   Amlogic S905X  | Mali G31 |  1GB  | 16GB | ✅ AP6212  |    ❌    | [Link](#link)  | 
 |   BTV11 E10   |  Amlogic S905X2  |          |  2GB  | 6GB  |            |         | [Link](#link)  |
 
-
+## 👨🏽‍💻 Próximos passos:
+- Desenvolver servidores;
+- Testar limite para E10;
+- Buscar outras alternativas além do PHP.
  
 ## 🤝 Parceiros
 
