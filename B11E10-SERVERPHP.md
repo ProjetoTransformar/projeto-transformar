@@ -33,6 +33,12 @@ sudo systemctl enable mariadb
 mysql_secure_installation
 # Responder: senha, n, n, y, n, y, y
 ```
+### 🔹 Criar novo usuário MySQL
+```sh
+sudo mariadb
+CREATE USER 'meuusuario'@'localhost' IDENTIFIED BY 'MinhaSenha123!';
+GRANT ALL PRIVILEGES ON *.* TO 'meuusuario'@'localhost' WITH GRANT OPTION;
+```
 
 ### 🔹 Instalar PHP e Extensões
 ```sh
