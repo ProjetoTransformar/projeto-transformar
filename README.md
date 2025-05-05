@@ -19,7 +19,7 @@ Caso prefira, também está disponível a instalação customizada do nosso proj
 |     TVBOX     |   PROCESSADOR    |    GPU   |  MEM  |  HD  |    WIFI    |  AUDIO  |   INSTALAÇÃO   |
 |---------------|------------------|----------|-------|------|------------|---------|----------------|
 |     BTV11     |   Amlogic S905X  | Mali G31 |  1GB  | 16GB | ✅ AP6212  |    ❌    | [Link](#link)  | 
-|   BTV11 E10   |  Amlogic S905X2  |          |  2GB  | 6GB  |            |         | [Link](#link)  |
+|   E10   |  Amlogic S905X2  |          |  2GB  | 6GB  |            |         | [Link](#link)  |
 
 ## 👨🏽‍💻 Próximos passos:
 - Desenvolver servidores;
