@@ -1,9 +1,14 @@
 # 🚀 Instalação BTV11
 
-# **Baixe [aqui](https://mega.nz/fm/srMiWBRZ) a imagem do sistema**
+# 1️⃣ **Baixe [aqui](https://mega.nz/fm/srMiWBRZ) a imagem do sistema**
 
-## 📌 DTB Utilizado
-**meson-sm1-x96-air.dtb**
+# 2️⃣ Use o BalenaEtcher para flashar essa imagem em um pendrive
+
+# 3️⃣ Entrar na pasta DTB e copiar o nome **meson-sm1-x96-air.dtb**
+
+# 4️⃣ Edite o arquivo **uEnv** e cole o nome do DTB depois de **FDT=/dtb/amlogic/**
+
+# 5️⃣ Insira o pendrive na porta 3.0, aperte o botão **update** com um clipe e ao mesmo tempo conecte a energia
 
 ---
 
@@ -60,4 +65,6 @@ armbian-install (510; 1(EXT4))
 ---
 
 ## 🎯 Observações
+
+### A opção 510 que escolhemos no final seria a opção do DTB do processador s905x3 que usamos no pendrive
 
