@@ -1,6 +1,6 @@
 # 🚀 Instalação BTV11
 
-### 1️⃣ **Baixe [aqui](https://mega.nz/fm/srMiWBRZ) a imagem do sistema**
+### 1️⃣ **Baixe [aqui](https://mega.nz/folder/BmcmWCIb#lgzNM0qfoixrg9RygGVHLA) a imagem do sistema**
 
 ### 2️⃣ Use o BalenaEtcher para flashar essa imagem em um pendrive
 
