@@ -1,6 +1,6 @@
 # 🚀 Instalação BTV11
 
-# **Baixe [aqui] (https://mega.nz/fm/srMiWBRZ) a imagem do sistema**
+# **Baixe ![aqui](https://mega.nz/fm/srMiWBRZ) a imagem do sistema**
 
 ## 📌 DTB Utilizado
 **meson-sm1-x96-air.dtb**
