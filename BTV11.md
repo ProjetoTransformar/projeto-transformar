@@ -6,7 +6,7 @@
 
 ### 3️⃣ Entrar na pasta DTB e copiar o nome **meson-sm1-x96-air.dtb**
 
-### 4️⃣ Edite o Txt **uEnv** e cole o nome do DTB depois de **FDT=/dtb/amlogic/**
+### 4️⃣ Edite o arquivo **uEnv** e cole o nome do DTB depois de **FDT=/dtb/amlogic/**
 
 ### 5️⃣ Insira o pendrive na porta 3.0, aperte o botão **update** com um clipe e ao mesmo tempo conecte a energia
 
