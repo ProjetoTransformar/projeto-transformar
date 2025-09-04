@@ -37,8 +37,9 @@ Agradecemos os seguintes órgãos que contribuíram para o desenvolvimento do Pr
 ## 👨🏽‍💻👩🏼‍💻 Equipe de Desenvolvimento
 
 | ![Vitor Ferreira](https://github.com/vitorferreiracode.png) | ![Manuela Bechara](https://github.com/binbaragi.png) | ![Igor Kussumoto](https://github.com/igorkussumoto.png) | ![Eric Endres](https://github.com/eric-endres.png) | ![Ayrton Machado](https://github.com/Ayrton-Machado.png) | ![André Trevisan](https://github.com/andretrevisan.png) |
-|:----------------------------------------------------------:|:---------------------------------------------------:|:--------------------------------------:|:----------------------------------:|:--------------------------------------------------:|
-| **Vitor Ferreira**                                         | **Manuela Bechara**                                | **Igor Kussumoto**                   | **Eric Endres**                   | **Ayrton Machado**                                |
+|:----------------------------------------------------------:|:---------------------------------------------------:|:-------------------------------------------------------:|:--------------------------------------------------:|:--------------------------------------------------------:|:---------------------------------------------------------:|
+| **Vitor Ferreira**                                         | **Manuela Bechara**                                 | **Igor Kussumoto**                                     | **Eric Endres**                                    | **Ayrton Machado**                                       | **André Trevisan**                                        |
+
 
 
 
