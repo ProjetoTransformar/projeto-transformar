@@ -23,9 +23,7 @@ Caso prefira, também está disponível a instalação customizada do nosso proj
 |      E10      |  Amlogic S905X2  |     Mali G31 MP2     |  2GB  | 8GB  |            |         | [Link](#link)  |
 
 ## 👨🏽‍💻 Próximos passos:
-- Desenvolver servidores;
-- Testar limite para E10;
-- Buscar outras alternativas além do PHP.
+- Construir um cluster utilizando B11
  
 ## 🤝 Parceiros
 
